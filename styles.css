@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0d0c1d;
+  color: #e0e0f0;
+}
+header {
+  background: #1a1833;
+  padding: 1em;
+  text-align: center;
+}
+.logo {
+  height: 80px;
+}
+main {
+  padding: 2em;
+}
+section {
+  margin-bottom: 3em;
+}
+h1, h2 {
+  color: #b388eb;
+}
+a, p {
+  color: #c3c3ff;
+}
+.qrcode {
+  max-width: 200px;
+  display: block;
+  margin: 1em auto;
+}
+footer {
+  background: #1a1833;
+  color: #888;
+  text-align: center;
+  padding: 1em;
+  font-size: 0.9em;
+}
